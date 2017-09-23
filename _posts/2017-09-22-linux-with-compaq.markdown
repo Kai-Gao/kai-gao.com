@@ -9,7 +9,7 @@ tags:
   - cf80
 ---
 
-[![](/media/files/2016/10/15/maxresdefault.jpg)]
+![](/media/files/2016/10/15/maxresdefault.jpg)
 
 hello
 

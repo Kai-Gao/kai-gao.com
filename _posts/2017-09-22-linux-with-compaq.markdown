@@ -9,7 +9,7 @@ tags:
   - cf80
 ---
 
-[![](/media/files/2015/04/14/fishing.jpg)](https://www.flickr.com/photos/lhzhang/16435428423/)
+![](/media/files/2016/10/15/maxresdefault.jpg)
 
 hello
 
